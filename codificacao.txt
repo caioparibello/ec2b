@@ -1,0 +1,5 @@
+Codificação 
+Na linguagem python usaremos módulos para fazer o calculo, integrar com o banco de dados e um módulo para fazer integração
+com tudo.
+Já a linguagem Sql server vai se integrar com o app para coletar as informações e armazenar tudo. E conectar com a conta 
+da empresa para saber se debito. 
