@@ -2,5 +2,6 @@
 engenharia da computação
 
 
-caio paribello   RA: 1901672
-artur teixeira   RA: 1901874
+Caio paribello   RA: 1901672
+
+Artur teixeira   RA: 1901874
