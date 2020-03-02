@@ -1,0 +1,2 @@
+análise
+o cliente precisa de um software que faca a cotacao das viagens utilizando carros voadores de ate 10 dolares, o software calcularia o valor da viagem.

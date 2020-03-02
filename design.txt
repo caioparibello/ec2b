@@ -1,0 +1,3 @@
+design
+vamos usar a linguagem Python pois ela é muito utilizada para casos onde se deve realizar calculos para descobrirmos o valor da viagem, e utilizaremos o banco de dados (sql server) para armazenar os dados captados.
+faremos uma aplicacao web/mobile pelo facil acesso.
