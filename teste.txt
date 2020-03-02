@@ -1,0 +1,16 @@
+Teste
+	Antes de começar, vale ressaltar que o protótipo disponível no escritório não funciona, ou seja, ele não voa de fato.
+O veículo foi criado para que as pessoas que trabalham no projeto possam ter uma noção de como o carro voador deve funcionar
+e testar seus futuros recursos. Isso é importante para que a Uber possa estabelecer critérios, visto que são outras empresas
+que vão criar os veículos.
+	Algumas empresas parceiras já estão testando a capacidade de voo de seus veículos, mas ele ainda não pode revelar em 
+quais lugares isso vem sendo feito.
+	O carro voador tem espaço para o piloto e mais quatro passageiros. No entanto, para evitar distrações, o motorista
+fica separado por um vidro.
+	Ao todo, são seis portas: três de cada lado. O assento é semelhante ao de um helicóptero e foi pensado para veículos
+de decolagem vertical (eVTOL). Um detalhe interessante é que o cinto de segurança é bem apertado para que os passageiros
+estejam seguros durante o trajeto. Há ainda um espaço na parte de trás dedicado às bolsas, visto que não é possível carregar
+objetos no colo. Vale lembrar, no entanto, que o carro terá um limite de peso e que a bagagem deverá ser pequena.
+	Para os veículos participantes, a empresa prevê velocidades entre 240 km/h e 320 km/h, além de autonomia para 
+60 milhas (96,5 km). Vale lembrar que o uberAIR não tem como objetivo percorrer longas distâncias. O carro deve ser capaz
+de realizar trajetos curtos, facilitando o dia a dia do usuário.
